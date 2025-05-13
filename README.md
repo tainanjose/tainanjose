@@ -15,9 +15,10 @@ Sou formado em **Administração** e sou estudante de **Desenvolvimento Web Full
 - **UI/UX**: Design de interfaces e experiência do usuário
 - **Outras ferramentas**: Git & GitHub
 
-## 💼 Projetos em destaque
+## 💼 Projetos
 
-- [💒 Site de Casamento - Tainan & Ana](https://github.com/tainanjose/casamento_tainan_ana)
+- [💒 Site de Casamento](https://github.com/tainanjose/casamento_tainan_ana)
+- [Por que me contratar? - HTML + CSS] (https://github.com/tainanjose/Por-que-me-contratar-)
 
 ## 🎓 Formação acadêmica
 
